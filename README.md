@@ -10,7 +10,7 @@ You just need:
 
 ```
 $ make
-$ ./WisePIFinder (-d dataset -m memory -k k)
+$ ./WisePIFinder (-d dataset -m memory)
 ```
 
 **optional** arguments:
